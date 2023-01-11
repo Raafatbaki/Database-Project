@@ -1,0 +1,51 @@
+
+
+  .logoname{
+    background-color: rgb(80, 214, 18);
+    color: black;
+    size: 40px;
+      }
+      .b_table{
+        float:left;
+        width:25%;
+        height: 300px;
+        margin-bottom: 150px;
+      }
+      .b_table1{
+        float:none;
+        width: 25%;
+        height: 350px;
+        margin-top: 110px;
+      }
+      #piechart{
+        display: table-header-group;
+        float:left;
+        height: 325px;
+        width:70%;
+        size: 1px;
+       
+      }
+      #piechart1{
+        display: table-header-group;
+        float:right;
+         height: 325px;
+         width:75%;
+        size: 1px;
+        
+      }
+      .übersicht_logo{
+        width: 50%;
+        float: right ;
+        display: table-header-group;
+        margin: auto;
+        size :50%;
+      }
+      .body12{
+        padding-top: 50px;
+        padding-right: 30px;
+        padding-bottom: 50px;
+        padding-left: 80px;
+      }
+    
+      
+    
